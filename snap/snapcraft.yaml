@@ -13,6 +13,7 @@ confinement: devmode
 
 plugs:
   network-bind:
+  fuse-support:
 
 apps:
   mount:
